@@ -1,0 +1,42 @@
+{
+    "offers":[{
+        "id": 1,
+        "name":"gift",
+        "imgUrl": "imageUrl",
+        "dateAdded":"11-11-2022",
+        "description": "text",
+        "value": 2323.23,
+        "currency": "$",
+        "visitedCount":0
+    },
+    {
+        "id": 2,
+        "name":"gift1",
+        "imgUrl": "imageUrl",
+        "dateAdded":"11-11-2022",
+        "description": "text",
+        "value": 2323.23,
+        "currency": "$",
+        "visitedCount":0
+    }, {
+        "id": 3,
+        "name":"gift1",
+        "imgUrl": "imageUrl",
+        "dateAdded":"11-11-2022",
+        "description": "text",
+        "value": 2323.23,
+        "currency": "$",
+        "visitedCount":0
+    }, {
+        "id": 4,
+        "name":"gift1",
+        "imgUrl": "imageUrl",
+        "dateAdded":"11-11-2022",
+        "description": "text",
+        "value": 2323.23,
+        "currency": "$",
+        "visitedCount":0
+    }
+
+]
+}
